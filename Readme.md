@@ -1,6 +1,6 @@
 # LGMSNet  
 
-SegmsNet is a lightweight framework for 2D and 3D medical image segmentation, implemented in PyTorch. It provides a complete pipeline for training, validation, and testing, with support for multiple datasets.  
+LGMSNet is a lightweight framework for 2D and 3D medical image segmentation, implemented in PyTorch. It provides a complete pipeline for training, validation, and testing, with support for multiple datasets.  
 
 ## Project Structure  
 
@@ -26,7 +26,7 @@ SegmsNet/
 ## Environment Setup  
 
 ### 1. Install Dependencies  
-Ensure [Anaconda](https://www.anaconda.com/) or [Miniconda](https://docs.conda.io/en/latest/miniconda.html) is installed, then create the environment using:  
+Ensure conda is installed, then create the environment using:  
 
 ```bash  
 conda env create -f environment.yaml  
