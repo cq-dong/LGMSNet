@@ -1,4 +1,4 @@
-# SegmsNet  
+# LGMSNet  
 
 SegmsNet is a lightweight framework for 2D and 3D medical image segmentation, implemented in PyTorch. It provides a complete pipeline for training, validation, and testing, with support for multiple datasets.  
 
