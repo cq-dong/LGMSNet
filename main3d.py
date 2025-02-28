@@ -48,7 +48,7 @@ parser.add_argument("--logdir", default="test", type=str, help="directory to sav
 parser.add_argument(
     "--pretrained_dir", default="./pretrained_models/", type=str, help="pretrained checkpoint directory"
 )
-parser.add_argument("--data_dir", default="/data/chengqidong/data/fengedata/BTCV/", type=str, help="dataset directory")
+parser.add_argument("--data_dir", default="/BTCV/", type=str, help="dataset directory")
 parser.add_argument("--json_list", default="dataset_0.json", type=str, help="dataset json file")
 parser.add_argument(
     "--pretrained_model_name", default="UNETR_model_best_acc.pth", type=str, help="pretrained model name"
