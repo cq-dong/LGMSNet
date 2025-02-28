@@ -24,9 +24,6 @@ from albumentations import RandomRotate90, Resize
 
 import tempfile
 
-os.environ['TMPDIR'] = '/data/chengqidong/project/segmentation/CMUNeXt/tmp'
-tempfile.tempdir = '/data/chengqidong/project/segmentation/CMUNeXt/tmp'
-
 from utils.util import AverageMeter
 import utils.losses as losses
 from utils.metrics import iou_score
