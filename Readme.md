@@ -40,7 +40,8 @@ Place datasets in the `data/` directory. Supported datasets include:
 - BUSI  
 - TNSCUI  
 - ISIC18  
-- BTCV  
+- BTCV
+- KiTS23
 
 ## Model Training  
 
