@@ -4,7 +4,7 @@ import argparse
 import numpy as np
 from tqdm import tqdm
 import matplotlib.pyplot as plt
-
+# print('main')
 cpu_num = 1
 os.environ['OMP_NUM_THREADS'] = str(cpu_num)
 os.environ['OPENBLAS_NUM_THREADS'] = str(cpu_num)
