@@ -2,6 +2,9 @@
 
 LGMSNet is a lightweight framework for 2D and 3D medical image segmentation, implemented in PyTorch. It provides a complete pipeline for training, validation, and testing, with support for multiple datasets.  
 
+[LGMSNet: Thinning a medical image segmentation model via dual-level multiscale fusion](https://arxiv.org/abs/2508.15476) accepted by ECAI 2025 oral.
+
+
 ## Project Structure  
 
 ```
