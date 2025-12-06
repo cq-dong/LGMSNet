@@ -38,6 +38,7 @@ conda activate uxnet3d
 
 ## Dataset Preparation  
 
+
 Place datasets in the `data/` directory. Supported datasets include:  
 - Kvasir  
 - BUSI  
@@ -45,6 +46,8 @@ Place datasets in the `data/` directory. Supported datasets include:
 - ISIC18  
 - BTCV
 - KiTS23
+
+Data can be found in [U-Bench]([https://arxiv.org/abs/2508.15476](https://huggingface.co/datasets/FengheTan9/U-Bench)) 
 
 ## Model Training  
 
